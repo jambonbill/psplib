@@ -1,0 +1,25 @@
+{
+  "name": "psplib",
+  "version": "1.0.0",
+  "description": "PSP Library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jambonbill/psplib.git"
+  },
+  "keywords": [
+    "petscii"
+  ],
+  "author": "jambonbill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jambonbill/psplib/issues"
+  },
+  "homepage": "https://github.com/jambonbill/psplib#readme"
+}
